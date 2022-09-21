@@ -1,5 +1,5 @@
 def main():
-    {
+    Datos={
 "DueDate": "2022-02-24",
 "Balance": 1990.19,
 "DocNumber": "1053811422",
@@ -28,6 +28,8 @@ def main():
 ],
 "TotalAmt": 1990.19
 }
+    
+    
 
 if __name__=='__main__':
     main()
